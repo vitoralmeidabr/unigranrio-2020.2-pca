@@ -5,6 +5,7 @@ body {
 
 nav.navbar {
   background-color: #668C3F;
+  box-shadow: 0px 1px 10px -5px rgb(107, 107, 107);
 }
 
 /*
@@ -118,4 +119,22 @@ p {
 
 .services {
 	margin-top: 2.0rem;
+}
+
+.post {
+	margin-top: 3.0rem;
+}
+
+.imgPost {
+	margin-top: 2.0rem;
+}
+
+.textoPost {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin-top: 2.0rem;
+}
+
+.creditosPost {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin-top: 3.0rem;
 }
